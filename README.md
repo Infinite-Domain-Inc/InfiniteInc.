@@ -1,3 +1,5 @@
+![Infinite](https://user-images.githubusercontent.com/72195951/163590336-8e8a8ace-04f1-4786-81a9-76b8b247e302.png)
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
